@@ -1,5 +1,5 @@
 windows:
-  installs: winget install --silent --no-upgrade Microsoft.DotNet.SDK.7
+  installs: winget install --silent --no-upgrade Microsoft.DotNet.SDK.9
 
 # TODO:
 # linux|darwin:
